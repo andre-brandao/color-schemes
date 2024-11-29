@@ -2,7 +2,6 @@ system: "base16"
 name: "Silk Dark"
 author: "Gabriel Fontes (https://github.com/Misterio77)"
 variant: "dark"
-
 palette:
   base00: "#0e3c46"
   base01: "#1D494E"
@@ -12,7 +11,6 @@ palette:
   base05: "#C7DBDD"
   base06: "#CBF2F7"
   base07: "#D2FAFF"
-
   base08: "#fb6953"
   base09: "#fcab74"
   base0A: "#fce380"
